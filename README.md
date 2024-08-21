@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @christina-h5678
-- 👀 I’m interested in healthy lifestyle, fitness, dancing & reading
+- 👀 I’m interested in healthy lifestyle, fitness, dancing, art & reading
 - 🌱 I’m currently learning full stack web development 
 - 💞️ I’m looking to collaborate on cool projects to apply my new skills
 - 📫 How to reach me ...
