@@ -2,7 +2,7 @@
 - 👀 I’m interested in healthy lifestyle, fitness, dancing, art & reading
 - 🌱 I’m currently learning full stack web development 
 - 💞️ I’m looking to collaborate on cool projects to apply my new skills
-- 📫 How to reach me ...
+- 📫 How to reach me: GitHub inbox
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like snowmobiling 
 
