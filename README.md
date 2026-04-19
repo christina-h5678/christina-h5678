@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cool projects to apply my new skills
 - 📫 How to reach me: GitHub inbox
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like snowmobiling 
+- ⚡ Fun fact: I'm currently on a 660+ day Duolingo streak 
 
 <!---
 christina-h5678/christina-h5678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
