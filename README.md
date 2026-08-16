@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christina-h5678
 - 👀 I’m interested in healthy lifestyle, fitness, dancing, art & reading
-- 🌱 I’m currently learning front end development 
+- 🌱 I’m currently learning data analysis 
 - 💞️ I’m looking to collaborate on cool projects to apply my new skills
 - 📫 How to reach me: GitHub inbox
 - 😄 Pronouns: she/her
